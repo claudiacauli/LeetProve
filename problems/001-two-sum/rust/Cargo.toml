@@ -1,0 +1,10 @@
+[package]
+name = "two-sum"
+edition = "2021"
+
+[[bin]]
+name = "two-sum"
+path = "solution.rs"
+
+[dev-dependencies]
+proptest = "1.0"
