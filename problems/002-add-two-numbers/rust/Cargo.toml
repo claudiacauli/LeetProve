@@ -1,0 +1,13 @@
+[package]
+name = "add-two-numbers"
+edition = "2021"
+
+[[bin]]
+name = "add-two-numbers"
+path = "solution.rs"
+
+[dev-dependencies]
+proptest = "1.0"
+
+[dependencies]
+num-bigint = "0.4"
