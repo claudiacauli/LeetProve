@@ -1,1 +1,1 @@
-Collection of LeetCode problems solved and proved in Rust and Lean.
+Collection of LeetCode problems solved and proved in Rust, Dafny, and Lean.
